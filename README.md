@@ -44,8 +44,9 @@ Vous trouverez ici mes projets scolaires, expérimentations personnelles et prot
 À venir ...
 
 ## 🌐 Me retrouver
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@SkylerDominikEngland)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skyler-dominik-england-lp)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@SkylerDominikEngland)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/silent-sde)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white)](https://www.behance.net/skyler-england)
 
 # 📊 Statistique GitHub
