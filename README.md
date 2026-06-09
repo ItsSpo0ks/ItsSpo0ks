@@ -1,19 +1,47 @@
-## Hi there 👋
+# Salut, moi c'est Skyler 👋
 
-<!--
-**ItsSpo0ks/ItsSpo0ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en intégration multimédia
 
-Here are some ideas to get you started:
+Je m'intéresse à la création d'expériences interactives qui mélangent technologie, design et narration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies et outils
+
+- HTML, CSS, JavaScript
+- React
+- Firebase
+- Unity
+- Git & GitHub
+- Bash
+
+## 🎮 Centres d'intérêt
+
+- Développement de jeux vidéo
+- Expériences interactives
+- Réalité virtuelle
+- Cinéma et narration visuelle
+- Photographie et vidéographie
+- Illustration numérique
+- Open source et technologies Linux
+
+## 🌱 En ce moment
+
+- Développement de projets React et Firebase
+- Création de jeux avec Unity
+- Exploration de la VR et des effets spéciaux temps réel
+- Amélioration de mes compétences en programmation et en design interactif
+
+## 📚 J'aime apprendre sur
+
+- Développement web moderne
+- Game design
+- UX/UI
+- Réseaux et systèmes Linux
+- Création multimédia
+
+## 🚀 Projets
+
+Vous trouverez ici mes projets scolaires, expérimentations personnelles et prototypes de jeux.
+À venir ...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/skyler-dominik-england-lp) 
